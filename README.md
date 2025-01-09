@@ -9,7 +9,7 @@ The original purpose of this project was to provide a way for microcontrollers s
 The program will work for anything that can send data via UDP to an IP address or network host, it is not limited to microcontroller projects.
 
 ## Installation
-Look in the releases section and download the zip file for your operating system, then unzip it. It has been compiled on MacOS, Windows and Ubuntu Linux. They are native binaries and do not require the Java virtual machine to run. When you download the executable, you run it and after first launch, it will create a file in the folder it was launched from called `settings.ini`.
+Look in the [releases](https://github.com/EasyG0ing1/UDPLog/releases) section and download the zip file for your operating system, then unzip it. It has been compiled on MacOS, Windows and Ubuntu Linux. They are native binaries and do not require the Java virtual machine to run. When you download the executable, you run it and after first launch, it will create a file in the folder it was launched from called `settings.ini`.
 
 ## Usage
 Open the settings file and change the options to suit your needs. The format of the settings file is:
