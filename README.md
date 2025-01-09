@@ -43,9 +43,11 @@ Here is the breakdown
 UDPLog test
 UDPLog version
 ```
+- ***test***
+  - Passing in the word `test` will give you feedback as the program runs which lets you perform data send tests and the program will let you know if your data was received etc.
 
-Passing in the word `test` will give you feedback as the program runs which lets you perform data send tests and the program will let you know if your data was received etc.
-
+- ***version***
+  - This will tell you what the version number of the program is.
 ## Example Arduino Code
 This is how a typical Arduino sketch might look like that would use this program:
 ```C++
